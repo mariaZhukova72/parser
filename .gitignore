@@ -1,0 +1,19 @@
+# Виртуальное окружение
+venv/
+.env/
+.env.*/
+.venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Настройки редакторов и IDE
+.vscode/
+.idea/
+
+# Прочие временные файлы
+*.log
+*.tmp
